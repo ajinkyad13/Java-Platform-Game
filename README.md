@@ -39,6 +39,10 @@ Clone the repository and import into [Intellij IDEA](https://www.jetbrains.com/i
 
 
 ## Screenshots of gameplay
-![gameplay1](/assets/mainView.png)
+![gameplay1](assets/mainView.PNG)
+![gameplay2](assets/levelSelection.png)
+![gameplay3](assets/level1.png)
+![gameplay4](assets/heart.png)
+![gameplay5](assets/end.png)
 
 ##### Note: The issues in the Create new level section will be fixed soon
